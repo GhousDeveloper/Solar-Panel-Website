@@ -1,0 +1,6 @@
+{
+  "name": "SunRise Solar",
+  "description": "Next-generation clean, renewable, and sustainable solar energy solutions for homes, businesses, and communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
